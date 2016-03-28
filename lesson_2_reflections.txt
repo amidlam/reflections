@@ -10,10 +10,13 @@ What value do you think it offers?
 	staging area is a collection of pointers to selected files that exist in the 
 	working directory that have not been committed to the repository
 	
-	allows grouping of files of similar idea or branches
+	allows grouping of files of similar logical change or branches
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+	add file or files that represent the logical change to staging area then 
+	commit them with comments
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
