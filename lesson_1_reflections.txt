@@ -1,0 +1,45 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Reduced the number of lines of code i had to view showing lines that changed
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    you would be able to see code fragments what worked and didnt work  
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    manual commit pros: i determine when to save or commit files, add comments to 
+    commits and doc changes, safely try new branch code. cons: i determine when 
+    to commit, may have made too big of a change, or forget
+    vs
+    auto save pros: saves when i forget, saves all changes. cons: saved files 
+    might be insignificant or unwanted, requires more space and resources
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    programs depend on multiple programs or procedures that have to be changed 
+    or added to as the program develops grouping may make it easier to track 
+    changes  whereas a document is a single element 
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log allows viewing of the all the commits and comments while git diff 
+    will compare the differences between the commits chosen from the log
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I don’t have to as cautious about making mistakes. I can find my errors and 
+    change them through a history of previous attempts of failed branches or 
+    inefficient code 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    i plan on developing small apps for use in the classroom to help aid 
+    students in their course study
