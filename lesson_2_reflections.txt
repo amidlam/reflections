@@ -24,12 +24,20 @@ organized? How would branches help?
 	branching allows trying experimental features, language variations, 
 	alternative versions without disrupting the master branch
 
-	how?
-
 How do the diagrams help you visualize the branch structure?
+	
+	it is a linked list of nodes with a pointer back to the parent, each node 
+	can have multiple offspring or branching, the list can be traveled backwards 
+	by visiting each parent
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+	merging produces one linked list by time stamp with two parents
+
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+	pros quick cons conflicts handled manually vs pros total user control 
+	cons time consuming 
