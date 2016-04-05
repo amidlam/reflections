@@ -20,12 +20,15 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    allow you to see what state the remote is in, if changes are made to the 
+    remote you can pull their differences
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    use file sharing with DropBox or Google Drive, logging into the shared folder
+    provides easy access to files, it is difficult to maintain version control
+    when edited files overwrite existing files. 
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
