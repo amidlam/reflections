@@ -35,7 +35,7 @@ How can you use the commands git log and git diff to view the history of files?
 How might using version control make you more confident to make changes that
 could break something?
 
-    I don’t have to as cautious about making mistakes. I can find my errors and 
+    I don’t have to be as cautious about making mistakes. I can find my errors and 
     change them through a history of previous attempts of failed branches or 
     inefficient code 
 
