@@ -33,4 +33,8 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When collaboration with others is required. Working in branches allow 
+    collaborators to view or comment on changes before merging into master, 
+    while working in master is faster, does not require as many synchronized 
+    changes, it also does not allow for comments until after a change has 
+    been implemented or commited
